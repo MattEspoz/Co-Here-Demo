@@ -1,4 +1,4 @@
-# ✨ Co:Here-Demo
+# ✨ Co:Here Demo
 
 Purpose:
 🤖 testing out co:here platform capabilities in a quick demo
